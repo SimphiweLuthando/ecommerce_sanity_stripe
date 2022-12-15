@@ -4,7 +4,7 @@ This e-commerce store is built using React, Stripe, Next.js, and Sanity. It sell
 ![alt mockup](screenshot-rocks.png)
 
 [Live Demo](https://ecommerce-sanity-stripe-alpha-nine.vercel.app/)
-[Live Demo](https://ecommerce-sanity-stripe-alpha-nine.vercel.app/)
+
 
 ## Features
 - Responsive and user-friendly interface
