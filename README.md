@@ -1,6 +1,10 @@
 # Headphones and Speakers E-Commerce Store
 This e-commerce store is built using React, Stripe, Next.js, and Sanity. It sells headphones and speakers of various types and brands.
 
+![alt mockup](/ecommerce/demo/screenshot-rocks.png)
+
+![Live Demo](https://ecommerce-sanity-stripe-alpha-nine.vercel.app/)
+
 ## Features
 - Responsive and user-friendly interface
 - Easy-to-use search and filter options
@@ -27,7 +31,7 @@ To deploy the store, follow these steps:
 # Contributing
 To contribute to this project, follow these steps:
 
-Fork the repository.
-1. Create a new branch for your changes.
-2. Make your changes and commit them to your branch.
-3. Push your branch to your fork and submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them to your branch.
+4. Push your branch to your fork and submit a pull request.
